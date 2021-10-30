@@ -359,7 +359,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cubePrefab: {fileID: 6340490960310077283, guid: 38e65056d574a0740b6550fb5bfd04b8, type: 3}
-  mapSize: {x: 8, y: 8}
+  mapSize: {x: 12, y: 12}
   mapHolder: {fileID: 258568184}
 --- !u!4 &1215237867
 Transform:
