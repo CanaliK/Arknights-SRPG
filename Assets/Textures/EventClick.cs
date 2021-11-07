@@ -9,6 +9,4 @@ public class EventClick : MonoBehaviour, IPointerClickHandler
     {
         print("µã»÷ÁË£º£º" + this.name);
     }
-
- 
 }
